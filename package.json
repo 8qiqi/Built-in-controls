@@ -1,21 +1,11 @@
 {
-  "name": "spa",
+  "name": "spa-demo",
   "version": "1.0.0",
-  "description": "SPA 富应用开发课程资料。",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"nothing to test!\" && exit 0"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wangding/spa.git"
-  },
-  "author": "wangding",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/wangding/spa/issues"
-  },
-  "homepage": "https://github.com/wangding/spa#readme",
-  "devDependencies": {
-    "gitbook-cli": "^2.3.2"
-  }
+  "author": "",
+  "license": "ISC"
 }
